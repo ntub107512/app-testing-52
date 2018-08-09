@@ -1,0 +1,1 @@
+WikitudeIonic3StarterApp
